@@ -1,6 +1,8 @@
 # vucutkitleindeksi
 Vücut Kitle Indeksi Hesaplayıcı
 
+VKİ = ağırlık / (boy * boy) formülünü kullanarak
+
 
 VKİ < 18	Zayıf
 
